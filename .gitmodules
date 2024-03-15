@@ -1,0 +1,3 @@
+[submodule "anki-japanese-flashcard-manager-desktop/backend"]
+	path = anki-japanese-flashcard-manager-desktop/backend
+	url = https://github.com/TMason11095/anki-japanese-flashcard-manager-backend.git
